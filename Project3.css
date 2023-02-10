@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    width: 100vw;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+div.logo {
+    color: blue;
+    margin-left: -150px;
+}
+h1 {
+    font-size: 85px;
+}
+nav a {
+    margin-right: 40px;
+    text-decoration: none;
+    margin: 40px;
+}
+nav {
+    margin-right: -250px;
+}
+.home {
+    color: blue;
+    text-decoration: underline;
+}
+.btn {
+    padding: 8px 14px;
+    color: white;
+    background-color: blue;
+    border: 0px;
+}
+div button.one {
+    margin: 20px;
+    padding: 5px 15px;
+    color: white;
+    background-color: blue;
+    border: none;
+    margin-left: -7px;
+}
+div button.two {
+    padding: 3px 15px;
+    color: blue;
+    margin-left: -7px;
+}
+.main {
+    margin-left: 150px;
+    margin-top: 60px;
+    font-size: 30px;
+}
+div.left img {
+    width: 600px;
+    height: 600px;
+    margin-left: 980px;
+    margin-top: -450px;
+}
